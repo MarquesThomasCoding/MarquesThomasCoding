@@ -7,7 +7,7 @@
 * 📚 J'étudie dans l'axe **Coding & Digital Innovation**
 * 🎮 Je suis passionné par le développement web
 
-### Je suis en train d'apprendre :
+### 📚 Je suis en train d'apprendre :
 
 * 🌐 HTML / CSS / JS
 * 📊 SQL
@@ -16,7 +16,12 @@
 * 📡 Github
 * 📡 Figma
 
-### Me contacter :
+### 💻 Mes langages favoris
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🔗 Me contacter :
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Thomas%20Marques-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marquesthomas/)
 [![Instagram](https://img.shields.io/badge/Instagram-thomasmrqs-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/thomas_mrqs/)
