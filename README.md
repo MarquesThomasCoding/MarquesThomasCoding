@@ -7,7 +7,7 @@
 * 📚 J'étudie dans l'axe **Coding & Digital Innovation**
 * 🎮 Je suis passionné par le développement web
 
-### 📚 Je suis en train d'apprendre :
+### 📚 J'apprend :
 
 * 🌐 HTML / CSS / JS
 * 📊 SQL
