@@ -2,27 +2,37 @@
 
 # Bonsoir ! 👋
 
-### Je m'appelle **Thomas Marques** et je suis actuellement étudiant en 2ème année de bachelor à l'[**IIM**](https://iim.fr) (**I**nstitut de l'**I**nternet et du **M**ultimédia) à **Nanterre**.
+### Je m'appelle **Thomas Marques** et je suis actuellement étudiant en développement web.
 
+* 🏫 Je suis actuellement en **2ème année** de bachelor à l'[**IIM**](https://iim.fr)
 * 📚 J'étudie dans l'axe **Coding & Digital Innovation**
-* 🎮 Je suis passionné par le développement web
+* 🎮 Je suis passionné par le **développement web**
+
 
 ### 📚 J'apprend :
 
-* 🌐 HTML / CSS / JS
-* 📊 SQL
-* 📈 PHP
-* 📡 Git
-* 📡 Github
-* 📡 Figma
+<div align="center">
+<img src="./logos/html.svg" alt="html" width="50">
+<img src="./logos/css.svg" alt="css" width="50"><hr>
+<img src="./logos/javascript.svg" alt="js" width="50">
+<img src="./logos/php.png" alt="php" width="50">
+<img src="./logos/python.svg" alt="python" width="50"><hr>
+<img src="./logos/git.svg" alt="git" width="50">
+<img src="./logos/github.svg" alt="github" width="50"><hr>
+<img src="./logos/figma.png" alt="figma" width="25">
+<img src="./logos/photoshop.png" alt="ps" width="50">
+<img src="./logos/after-effects.png" alt="ae" width="50">
+</div>
 
-### 💻 Mes langages favoris
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&layout=compact&theme=dark&hide_border=true)
 
+### 📧 Mail :
+* **thomas.marques@edu.devinci.fr**
+* **thomasmarques.lucky@gmail.com**
 
-### 🔗 Me contacter :
+### 🔗 Réseaux sociaux :
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Thomas%20Marques-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marquesthomas/)
-[![Instagram](https://img.shields.io/badge/Instagram-thomasmrqs-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/thomas_mrqs/)
-[![Discord](https://img.shields.io/badge/Discord-thomluck-darkblue?style=for-the-badge&logo=discord)](https://discord.com/app)
+<a href="https://linkedin.com/in/marquesthomas"><img src="./logos/LinkedIn.svg" alt="LinkedIn" width="50"></a>
+<a href="https://discord.bio/thomluck"><img src="./logos/discord.svg" alt="Discord" width="50"></a>
