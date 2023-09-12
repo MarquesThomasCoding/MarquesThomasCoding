@@ -24,10 +24,6 @@
 <img src="./logos/after-effects.png" alt="ae" width="50">
 </div>
 
-###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&layout=compact&theme=dark&hide_border=true)
-
 ### 📧 Mail :
 * **thomas.marques@edu.devinci.fr**
 * **thomasmarques.lucky@gmail.com**
