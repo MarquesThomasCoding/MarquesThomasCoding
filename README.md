@@ -21,6 +21,10 @@
 <img src="./logos/photoshop.png" alt="ps" width="50">
 <img src="./logos/after-effects.png" alt="ae" width="50">
 </div>
+<hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&hide_border=true)
+
 
 ### 📧 Mail :
 * **thomas.marques@edu.devinci.fr**
