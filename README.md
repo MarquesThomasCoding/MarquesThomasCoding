@@ -1,10 +1,12 @@
 # Bonsoir ! 👋
 
-### Je m'appelle **Thomas Marques** et je suis actuellement étudiant en développement web.
+## Je m'appelle **Thomas Marques** et je suis actuellement étudiant en développement web.
+### A la recherche d'une alternance au rythme de 3 semaines entreprise / 1 semaine école
 
 * 🏫 Je suis actuellement en **2ème année** de bachelor à l'[**IIM**](https://iim.fr)
 * 📚 J'étudie dans l'axe **Coding & Digital Innovation**
 * ❤️ Je suis passionné par le **développement web**
+* 💻 J'aspire à devenir développeur frontend
 
 
 ### 📚 J'apprend :
@@ -18,8 +20,6 @@
 <img src="./logos/git.svg" alt="git" width="50">
 <img src="./logos/github.svg" alt="github" width="50">
 <img src="./logos/figma.png" alt="figma" width="25">
-<img src="./logos/photoshop.png" alt="ps" width="50">
-<img src="./logos/after-effects.png" alt="ae" width="50">
 </div>
 <hr>
 
