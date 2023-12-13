@@ -26,9 +26,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&hide_border=true)
 
 ### Mes projets :
-* [RETWITT](retwitt-project) : Conception d'un réseau social
-* [Mongoo](integration-mongoo) : Intégration d'une maquette
-* [Hangman Game](hangman-game) : Jeu du pendu
+* [RETWITT](../../../retwitt-project) : Conception d'un réseau social
+* [Mongoo](../../../integration-mongoo) : Intégration d'une maquette
+* [Hangman Game](../../../hangman-game) : Jeu du pendu
 
 ### 🌐 Portfolio :
 https://marques-thomas.vercel.app
