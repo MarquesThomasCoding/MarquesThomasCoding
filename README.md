@@ -27,7 +27,7 @@
 
 ### Mes projets :
 * [RETWITT](../../../retwitt-project) : Conception d'un réseau social
-* [Mongoo](../../../integration-mongoo) : Intégration d'une maquette
+* [Mongoo](../../../Rendu-Integration) : Intégration d'une maquette
 * [Hangman Game](../../../hangman-game) : Jeu du pendu
 
 ### 🌐 Portfolio :
