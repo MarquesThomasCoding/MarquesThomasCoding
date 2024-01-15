@@ -31,6 +31,7 @@
 
 ### Mes projets :
 * [RETWITT](../../../retwitt-project) : Conception d'un réseau social
+* [PokeShop](../../../ecommerce-pokemon) : Site E-commerce fictif de pokémon
 * [Mongoo](../../../Rendu-Integration) : Intégration d'une maquette
 * [Hangman Game](../../../hangman-game) : Jeu du pendu
 
