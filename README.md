@@ -33,5 +33,5 @@ https://marques-thomas.vercel.app
 
 ### 🔗 Réseaux sociaux :
 
-<a href="https://linkedin.com/in/marquesthomas"><img src="./logos/LinkedIn.svg" alt="LinkedIn" width="50"></a>
-<a href="https://discord.bio/thomluck"><img src="./logos/Discord.svg" alt="Discord" width="50"></a>
+<a href="https://linkedin.com/in/marquesthomas"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"></a>
+<a href="https://discord.bio/thomluck"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50"></a>
