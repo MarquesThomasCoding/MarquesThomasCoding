@@ -1,7 +1,7 @@
 # Bonsoir ! 👋
 
 ## Je m'appelle **Thomas Marques** et je suis actuellement étudiant en développement web.
-### A la recherche d'une alternance au rythme de 3 semaines entreprise / 1 semaine école
+### A la recherche d'une alternance au rythme de 3 semaines entreprise / 1 semaine école pour septembre 2024
 
 * 🏫 Je suis actuellement en **2ème année** de bachelor à l'[**IIM**](https://iim.fr)
 * 📚 J'étudie dans l'axe **Coding & Digital Innovation**
