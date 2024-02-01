@@ -18,6 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&hide_border=true)
 
 ### Mes projets :
+* [Portfolio](../../../portfolio-v2) : Portfolio personnel
 * [RETWITT](../../../retwitt-project) : Conception d'un réseau social
 * [PokeShop](../../../ecommerce-pokemon) : Site E-commerce fictif de pokémon
 * [Mongoo](../../../Rendu-Integration) : Intégration d'une maquette
@@ -25,7 +26,7 @@
 * [Weather App](../../../weather-app-react) : Application météo
 
 ### 🌐 Portfolio :
-https://marques-thomas.vercel.app
+https://www.thomasmarques.fr
 
 ### 📧 Mail :
 * **thomas.marques@edu.devinci.fr**
