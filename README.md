@@ -11,7 +11,7 @@
 
 ### 📚 J'apprend :
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react,nodejs,php,symfony,mysql,python,figma,wordpress,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react,nodejs,php,mysql,python,figma,wordpress,git,github)
 
 <hr>
 
