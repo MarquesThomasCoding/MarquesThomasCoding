@@ -18,12 +18,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&hide_border=true)
 
 ### Mes projets :
-* [Portfolio](../../../portfolio-v2) : Portfolio personnel
-* [RETWITT](../../../retwitt-project) : Conception d'un réseau social
-* [PokeShop](../../../ecommerce-pokemon) : Site E-commerce fictif de pokémon
-* [Mongoo](../../../Rendu-Integration) : Intégration d'une maquette
-* [Hangman Game](../../../hangman-game) : Jeu du pendu
-* [Weather App](../../../weather-app-react) : Application météo
+* [Portfolio](../../../portfolio-v2) : Portfolio personnel en Vue.js
+* [RETWITT](../../../retwitt-project) : Conception d'un réseau social en PHP
+* [PokeShop](../../../ecommerce-pokemon) : Site E-commerce fictif de pokémon en JS
+* [Mongoo](../../../Rendu-Integration) : Intégration d'une maquette en SCSS
+* [Hangman Game](../../../hangman-game) : Jeu du pendu en JS
+* [Weather App](../../../weather-app-react) : Application météo en ReactJS
+* [Phone App](../../../phone-app-vuejs) : Application de téléphone en Vue.js
+* [Epsilon](../../../epsilon) : Bloc notes en Vue.js
 
 ### 🌐 Portfolio :
 https://www.thomasmarques.fr
