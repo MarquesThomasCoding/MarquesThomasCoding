@@ -1,5 +1,7 @@
 # Bonsoir ! 👋
 
+![Hello World!](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif)
+
 ## Je m'appelle **Thomas Marques** et je suis actuellement étudiant en développement web.
 ### A la recherche d'une alternance au rythme de 3 semaines entreprise / 1 semaine école pour septembre 2024
 
