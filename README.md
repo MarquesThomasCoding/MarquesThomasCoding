@@ -13,7 +13,7 @@
 
 ### 📚 J'apprend :
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react,nodejs,expressjs,prisma,php,mysql,python,figma,wordpress,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react,nodejs,expressjs,postman,prisma,php,mysql,python,figma,wordpress,git,github)
 
 <hr>
 
