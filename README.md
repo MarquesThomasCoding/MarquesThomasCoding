@@ -12,8 +12,9 @@
 
 
 ### 📚 J'apprend :
-
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react,nodejs,expressjs,postman,prisma,php,mysql,python,figma,wordpress,git,github)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react,nodejs,expressjs,postman,prisma,php,mysql,python,figma,wordpress,git,github&perline=18" />
+</p>
 
 <hr>
 
