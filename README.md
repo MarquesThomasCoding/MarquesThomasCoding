@@ -8,7 +8,7 @@
 * 🏫 Je suis actuellement en **2ème année** de bachelor à l'[**IIM**](https://iim.fr)
 * 📚 J'étudie dans l'axe **Coding & Digital Innovation**
 * ❤️ Je suis passionné par le **développement web**
-* 💻 J'aspire à devenir **développeur frontend**
+* 💻 J'aspire à devenir **développeur fullstack**
 
 
 ### 📚 J'apprend :
