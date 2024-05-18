@@ -11,7 +11,7 @@
 * 💻 J'aspire à devenir **développeur fullstack**
 
 
-### 📚 J'apprend :
+### 📚 Mes technos :
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react,nodejs,expressjs,postman,prisma,php,mysql,python,figma,wordpress,git,github&perline=18" />
 </p>
@@ -34,7 +34,6 @@
 https://www.thomasmarques.fr
 
 ### 📧 Mail :
-* **thomas.marques@edu.devinci.fr**
 * **thomasmarques.lucky@gmail.com**
 
 ### 🔗 Réseaux sociaux :
