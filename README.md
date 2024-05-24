@@ -29,6 +29,7 @@
 * [Weather App](../../../weather-app-react) : Application météo en ReactJS
 * [Phone App](../../../phone-app-vuejs) : Application de téléphone en Vue.js
 * [Epsilon](../../../epsilon) : Bloc notes en Vue.js
+* [Lyyda](../../../lyyda) : Plateforme de gestion d'évènements en ReactJS
 
 ### 🌐 Portfolio :
 https://www.thomasmarques.fr
