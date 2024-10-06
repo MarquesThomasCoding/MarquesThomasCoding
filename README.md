@@ -12,9 +12,7 @@
 
 
 ### 📚 Mes technos :
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,vue,react,nodejs,expressjs,postman,prisma,php,mysql,python,figma,wordpress,git,github&perline=18" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,vue,react,nodejs,expressjs,postman,prisma,php,mysql,python,figma,wordpress,git,github" />
 
 <hr>
 
