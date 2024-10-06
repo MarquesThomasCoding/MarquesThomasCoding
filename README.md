@@ -12,7 +12,7 @@
 
 
 ### 📚 Mes technos :
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,vue,react,nodejs,expressjs,postman,prisma,php,mysql,python,figma,wordpress,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,vue,react,nodejs,expressjs,postman,prisma,php,mysql,docker,python,figma,wordpress,git,github" />
 
 <hr>
 
