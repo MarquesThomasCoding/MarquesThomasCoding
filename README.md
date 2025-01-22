@@ -1,8 +1,4 @@
-# Bonsoir ! 👋
-
-![Hello World!](./introduceMyselfGithub.png)
-
-## Je m'appelle **Thomas Marques** et je suis actuellement étudiant en développement web.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&multiline=true&width=435&height=100&lines=Hello+world!;Je+suis+Thomas+Marques;Je+suis+d%C3%A9veloppeur+web)](https://git.io/typing-svg)
 
 * 🏫 Je suis actuellement en **3ème année** de bachelor à l'[**IIM**](https://iim.fr)
 * 📚 J'étudie dans l'axe **Coding & Digital Innovation**
@@ -10,26 +6,26 @@
 * 💻 J'aspire à devenir **développeur fullstack**
 
 
-### 📚 Mes technos :
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,vue,react,next,nodejs,expressjs,postman,prisma,php,mysql,docker,python,figma,wordpress,git,github" />
+### 📚 Les technos que j'utilise :
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,vue,react,next,nodejs,expressjs,postman,prisma,php,mysql,docker,python,figma,wordpress,git,github" />
 
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&hide_border=true)
 
 ### Mes projets :
-* [Portfolio](../../../portfolio-v2) : Portfolio personnel en Vue.js
-* [RETWITT](../../../retwitt-project) : Conception d'un réseau social en PHP
-* [PokeShop](../../../ecommerce-pokemon) : Site E-commerce fictif de pokémon en JS
-* [Mongoo](../../../Rendu-Integration) : Intégration d'une maquette en SCSS
-* [Hangman Game](../../../hangman-game) : Jeu du pendu en JS
-* [Weather App](../../../weather-app-react) : Application météo en ReactJS
-* [Phone App](../../../phone-app-vuejs) : Application de téléphone en Vue.js
-* [Epsilon](../../../epsilon) : Bloc notes en Vue.js
-* [Lyyda](../../../lyyda) : Plateforme de gestion d'évènements en ReactJS
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=portfolio-v2\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/portfolio-v2)
+[![RETWITT](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=retwitt-project\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/retwitt-project)
+[![PokeShop](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=ecommerce-pokemon\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/ecommerce-pokemon)
+[![Mongoo](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=Rendu-Integration\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/Rendu-Integration)
+[![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=hangman-game\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/hangman-game)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=weather-app-react\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/weather-app-react)
+[![Phone App](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=phone-app-vuejs\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/phone-app-vuejs)
+[![Epsilon](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=epsilon\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/epsilon)
+[![Lyyda](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=lyyda\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/lyyda)
 
 ### 🌐 Portfolio :
-https://www.thomasmarques.fr
+* **https://www.thomasmarques.fr**
 
 ### 📧 Mail :
 * **thomasmarques.lucky@gmail.com**
