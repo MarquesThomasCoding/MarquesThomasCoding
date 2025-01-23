@@ -6,14 +6,15 @@
 * 💻 J'aspire à devenir **développeur fullstack**
 
 
-### 📚 Les technos que j'utilise :
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,vue,react,next,nodejs,expressjs,postman,prisma,php,mysql,docker,python,figma,wordpress,git,github" />
+## Les technos que j'utilise :
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,vue,react,next,nodejs,expressjs,postman,prisma,php,mysql,firebase,docker,python,figma,wordpress,git,github,gitlab,bitbucket" />
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&border_color=303030&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquesThomasCoding&theme=dark&rank_icon=github&border_color=303030&hide=prs,contribs,stars,issues)
 
-### Mes projets :
+## Mes projets :
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=portfolio-v2\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/portfolio-v2)
 [![RETWITT](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=retwitt-project\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/retwitt-project)
 [![PokeShop](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=ecommerce-pokemon\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/ecommerce-pokemon)
