@@ -7,7 +7,7 @@
 
 
 ## Les technos que j'utilise :
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,vue,react,next,nodejs,expressjs,postman,prisma,php,mysql,firebase,docker,python,figma,wordpress,git,github,gitlab,bitbucket" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,ts,vue,react,next,nodejs,expressjs,postman,prisma,php,mysql,firebase,docker,python,figma,wordpress,git,github,gitlab,bitbucket" />
 
 <hr>
 
