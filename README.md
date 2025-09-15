@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&multiline=true&width=435&height=100&lines=Hello+world!;Je+suis+Thomas+Marques;Je+suis+d%C3%A9veloppeur+web)](https://git.io/typing-svg)
 
-* 🏫 Je suis actuellement en **3ème année** de bachelor à l'[**IIM**](https://iim.fr)
+* 🏫 Je suis actuellement en **1ère année** de Mastère à l'[**IIM**](https://iim.fr)
 * 📚 J'étudie dans l'axe **Coding & Digital Innovation**
 * ❤️ Je suis passionné par le **développement web**
 * 💻 J'aspire à devenir **développeur fullstack**
