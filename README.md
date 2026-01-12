@@ -11,10 +11,11 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&border_color=303030&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquesThomasCoding&theme=dark&rank_icon=github&border_color=303030&hide=prs,contribs,stars,issues)
+![Top Langs](https://github-stats.coded4.me/api/stats?user=MarquesThomasCoding&theme=dark&stats=commits,repos,prs,langs&hide_username=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesThomasCoding&theme=dark&border_color=303030&layout=compact) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquesThomasCoding&theme=dark&rank_icon=github&border_color=303030&hide=prs,contribs,stars,issues) -->
 
-## Mes projets :
+<!-- ## Mes projets :
 [![Clap&Popcorn](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=clap_and_popcorn\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/clap_and_popcorn)
 [![Lyyda](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=lyyda\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/lyyda)
 [![Draw With AI](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=draw_with_ai\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/draw_with_ai)
@@ -25,7 +26,7 @@
 [![Hangman](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=hangman-game\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/hangman-game)
 [![PokeShop](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=ecommerce-pokemon\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/ecommerce-pokemon)
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=weather-app-react\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/weather-app-react)
-[![Mongoo](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=mongoo-integration\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/mongoo-integration)
+[![Mongoo](https://github-readme-stats.vercel.app/api/pin/?username=MarquesThomasCoding&repo=mongoo-integration\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515\&border_color=303030)](https://github.com/MarquesThomasCoding/mongoo-integration) -->
 
 ### 🌐 Portfolio :
 * **https://www.thomasmarques.fr**
